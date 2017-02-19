@@ -1,13 +1,7 @@
 ---
 title: Code of Conduct
-categories: []
-tags: []
-status: publish
-type: page
-published: true
-meta: {}
+categories: conduct
 ---
-
 # Code of Conduct
 
 ## Our Pledge

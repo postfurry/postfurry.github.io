@@ -1,11 +1,6 @@
 ---
 title: Getting Connected
-categories: []
-tags: []
-status: publish
-type: page
-published: true
-meta: {}
+categories: muck-help
 ---
 # Getting Connected
 

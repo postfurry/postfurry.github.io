@@ -1,11 +1,6 @@
 ---
 title: Basic Interaction
-categories: []
-tags: []
-status: publish
-type: page
-published: true
-meta: {}
+categories: muck-help
 ---
 # Basic Interaction
 

@@ -1,11 +1,6 @@
 ---
 title: Looking Good
-categories: []
-tags: []
-status: publish
-type: page
-published: true
-meta: {}
+categories: muck-help
 ---
 # Looking Good
 

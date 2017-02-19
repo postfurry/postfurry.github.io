@@ -1,11 +1,6 @@
 ---
 title: Meeting Other Players
-categories: []
-tags: []
-status: publish
-type: page
-published: true
-meta: {}
+categories: muck-help
 ---
 # Meeting Other Players
 

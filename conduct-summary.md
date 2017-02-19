@@ -1,13 +1,7 @@
 ---
 title: Code of Conduct Summary
-categories: []
-tags: []
-status: publish
-type: page
-published: true
-meta: {}
+categories: conduct
 ---
-
 # Code of Conduct Summary
 We'd like to make sure that everyone can understand what our [Code of Conduct](http://postfurry.net/postfurry-worlds-code-of-conduct-v2) is about so this document expresses the core details of the Code of Conduct and what it contains. If you want details, please read the Code of Conduct. This document is also not canonical.
 

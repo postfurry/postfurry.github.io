@@ -1,0 +1,16 @@
+navigation:
+ - text: Home
+   category: home
+   url: /
+ - text: About us
+   category: about
+   url: /about
+ - text: Code of Conduct
+   category: conduct
+   url: /conduct
+ - text: MUCK Help
+   category: muck-help
+   url: /muck-help
+ - text: Twitter
+   category: external
+   url: https://twitter.com/PostfurryWorlds

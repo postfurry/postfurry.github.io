@@ -1,11 +1,6 @@
 ---
 title: Odds and Ends
-categories: []
-tags: []
-status: publish
-type: page
-published: true
-meta: {}
+categories: muck-help
 ---
 # Odds and Ends
 

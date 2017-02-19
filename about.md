@@ -1,13 +1,7 @@
 ---
 title: About Us
-categories: []
-tags: []
-status: publish
-type: page
-published: true
-meta: {}
+categories: about
 ---
-
 # About Us
 Postfurry is a loose coalition of individuals and microcommunities brought together by shared interests that grew out of the furry community. Postfurries explore the possibilities that arise when furry is mixed with transhumanism, intertextuality, and the myriad edge-cases around sexuality, identity, gender, and spirituality. The aesthetic is furry but with more cyberpunk, magical realism, and weirdness. In postfurry spaces you might see everything from wolves and lionesses in glowy rave-wear to lava-lamp vixens and sentient black holes. The Postfurry Worlds website provides resources for a few postfurry gathering-places. We invite anyone who is curious about us to come and join the gathering.
 
