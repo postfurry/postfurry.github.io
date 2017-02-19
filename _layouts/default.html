@@ -1,21 +1,30 @@
 <!doctype html>
 <html>
   <head>
-      <meta charset="utf-8">
-      <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <title>Postfurry Worlds</title>
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link href="https://fonts.googleapis.com/css?family=Baumans|Cabin" rel="stylesheet">
-      <link href="css/style.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Postfurry Worlds</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Baumans|Cabin|Fira+Mono" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
   </head>
   <body>
-    <h1>
-      Postfurry Worlds
-    </h1>
+    <header>
+      <div class="brand">Postfurry Worlds</div>
+    </header>
     <nav>
-      Menu goes here
+      <ul>
+        <li><a href="/">News</a></li>
+        <li><a href="/about">About us</a></li>
+        <li><a href="/conduct">Code of Conduct</a></li>
+        <li><a href="/muck-help">MUCK help</a></li>
+        <li><a href="https://twitter.com/PostfurryWorlds">Twitter</a></li>
+      </ul>
     </nav>
-    {{ content }}
-    Blah
+    <main>
+      {{ content }}
+    </main>
   </body>
 </html>

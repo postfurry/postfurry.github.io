@@ -1,1 +1,1 @@
-Hello World!
+{{ site.posts }}
