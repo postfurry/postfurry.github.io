@@ -1,1 +1,4 @@
 severity: error
+rules:
+  force-element-nesting: 0
+  single-line-per-selector: 0
