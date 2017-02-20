@@ -1,8 +1,8 @@
 ---
 title: Basic Interaction
-categories: muck-help
+categories: muck, muck-help
 ---
-# Basic Interaction
+# [MUCK Help](/muck/help) &raquo; Basic Interaction
 
 Hopefully by now you've successfully connected to the MUCK, so it's time to learn a few MUCK commands.  In this doc, when we talk about commands, they will be on their own line, in monospaced font,
 
@@ -52,3 +52,5 @@ Since the `say` and `pose` commands are so commonly-used, they each have shorter
     :waves!
 
 Note that for the `"` command, you don't need a closing quotemark, that'll get added for you.
+
+[Next: Meeting Others &raquo;](meeting-others)

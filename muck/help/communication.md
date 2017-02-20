@@ -1,8 +1,8 @@
 ---
 title: Communication Skills
-categories: muck-help
+categories: muck, muck-help
 ---
-# Communication Skills
+# [MUCK Help](/muck/help) &raquo; Communication
 
 The communication commands we've discussed so far only work for characters in the same room as you.  In order to talk to others, you'll need to use the `page` command:
 
@@ -49,3 +49,5 @@ Using the public channel is very similar to the ooc command:
 You can also turn off the public chat channel using `pub #off`.  See `pub #help` for more information.
 
 There are also other chat channels which you'll need to join specifically.  These are accessed using the `chat` command.  Again, the syntax is similar to the above commands, and `chat #help` will give you the full info.
+
+[Next: Looking Good &raquo;](looking-good)

@@ -1,8 +1,8 @@
 ---
 title: Getting Connected
-categories: muck-help
+categories: muck, muck-help
 ---
-# Getting Connected
+# [MUCK Help](/muck/help) &raquo; Getting connected
 
 The first thing you can do to make things easier for yourself is to get a MUCK Client.  This is a program that will store connection info, present MUCK activity in a reasonable way, and make it a lot easier to interact with. Here's what we think are the best clients for the various OSes:
 
@@ -35,3 +35,5 @@ For instance, if your name is Rory and your password is "secret" (Let's hope it'
     connect Rory secret
 
 Hit Enter, and you're in!
+
+[Next: Basic Interaction &raquo;](basics)

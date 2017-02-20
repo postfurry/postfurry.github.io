@@ -1,3 +1,6 @@
+gems:
+  - jekyll-redirect-from
+
 navigation:
  - text: Home
    category: home
@@ -8,12 +11,12 @@ navigation:
  - text: Code of Conduct
    category: conduct
    url: /conduct
+ - text: PF MUCK
+   category: muck
+   url: /muck
  - text: Contact us
    category: contact
    url: /contact
- - text: MUCK Help
-   category: muck-help
-   url: /muck-help
  - text: Twitter
    category: external
    url: https://twitter.com/PostfurryWorlds

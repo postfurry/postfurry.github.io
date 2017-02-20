@@ -1,8 +1,8 @@
 ---
 title: Odds and Ends
-categories: muck-help
+categories: muck, muck-help
 ---
-# Odds and Ends
+# [MUCK Help](/muck/help) &raquo; Odds and Ends
 
 * You can watch for folks you know connecting to the muck by using the `wf` command.  Just type `wf [name]` and you'll be notified when that character connects and disconnects.
 * You can also check the last time someone connected and disconnected using `laston [name]`.

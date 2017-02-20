@@ -1,8 +1,8 @@
 ---
 title: Meeting Other Players
-categories: muck-help
+categories: muck, muck-help
 ---
-# Meeting Other Players
+# [MUCK Help](/muck/help) &raquo; Meeting Others
 
 The main point of all this saying and posing, of course, is interacting with others, so it's helpful to know who's around, and how to get there.  If you're lucky (or clever) you're alraedy in a room with other folks in it.  To see who's around, use the `ws` command.  This is short for "Who Species", and gives a list of everyone in the room with you, and some basic info about them.
 
@@ -33,3 +33,5 @@ you should be able to type (hitting enter after each):
 and arrive where you want to ne.  The `wa #dir` commands should work from anywhere on the MUCK.
 
 The second command for finding others is `fa`, short fo "Find All".  Typing that command will show you a list of whoever is online, and what room they're in (unless the character or room is set to be private). The 'fa' list doesn't show how to get to a place, since some places don't have public directions. However, if you know someone on the FA list, you may be able to send them a message to see if you can join them.
+
+[Next: Communication &raquo;](communication)

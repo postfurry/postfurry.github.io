@@ -1,8 +1,8 @@
 ---
 title: Looking Good
-categories: muck-help
+categories: muck, muck-help
 ---
-# Looking Good
+# [MUCK Help](/muck/help) &raquo; Looking Good
 
 You've seen some of the details on other characters now, like gender, species, and description.  Now you can set those up yourself.
 
@@ -29,3 +29,5 @@ and you'll be all set up.  For instance, to show your interest in cyborgs, psion
 If you're not sure what any flags mean, be sure to ask your fellow players.  They'll likely be happy to explain, possibly at length.
 
 Next, there is `pinfo`, short for "Player Info" which lets you give long-form information that doesn't necessarily fit into a description.  You can see another cuaracter's info by typing `pinfo [name]`, and you can see how to set your own by typing `pinfo #help`.
+
+[Next: Odds and Ends &raquo;](odds-and-ends)

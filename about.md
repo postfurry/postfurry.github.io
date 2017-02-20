@@ -10,7 +10,7 @@ The Embassy is the quickest way to get to know various postfurries in an open an
 [Come join us!](https://discord.gg/WFB8gZe)
 
 ## Postfurry MUCK 
-The MUCK is more roleplay-focussed and heavily-themed than the Embassy. As such it has a (slightly) more stringent account creation policy; we prefer that MUCK users be Embassy regulars, or have a referral from an existing user. You can request a character [here](/request). This site also provides [help info](/muck-help) to aid new users in getting comfortable with the MUCK.
+The MUCK is more roleplay-focussed and heavily-themed than the Embassy. As such it has a (slightly) more stringent account creation policy; we prefer that MUCK users be Embassy regulars, or have a referral from an existing user. You can request a character [here](/request). This site also provides [help info](/muck/help) to aid new users in getting comfortable with the MUCK.
 
 ## Policies
 We're not real big into long lists of rules, but it's very important to us to have a close-knit, collaborative community. What we're going for boils down to one simple thing:Don't interfere with anyone's good time.We've elaborated this into a
