@@ -2,7 +2,11 @@
   <ul>
     {% for link in site.navigation %}
     <li {% if page.categories contains link.category %} class="active" {% endif %}>
-      <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
+      <a href="{{link.url}}"
+        {% if link.category == 'external' %} target="_blank" {% endif %}
+      >
+        {{link.text}}
+      </a>
     </li>
     {% endfor %}
   </ul>
