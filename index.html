@@ -4,5 +4,7 @@ categories: home
 ---
 
 <section class="posts">
-  {{ site.posts }}
+  {% for post in site.posts %}
+    {% include shortpost.html post=post %}
+  {% endfor %}
 </section>

@@ -19,6 +19,18 @@ body {
 h1, h2, h3, h4, h5, h6 {
   @include heading;
   color: $heading-text-color;
+
+  a {
+    color: $heading-text-color;
+
+    &:visited {
+      color: $heading-text-color;
+    }
+
+    &:hover {
+      color: $link-hover-color;
+    }
+  }
 }
 
 header .brand {
@@ -43,12 +55,12 @@ a {
 }
 
 nav {
-  border-bottom: 1px solid $border-color;
-  border-top: 1px solid $border-color;
+  border-bottom: $basic-border;
+  border-top: $basic-border;
   font-family: 'Fira Mono';
   font-size: 15px;
-  margin: 0;
-  padding: 28px 0;
+  margin: 0 0 $page-spacing;
+  padding: $page-spacing 0;
   text-align: center;
   text-transform: uppercase;
   width: auto;
@@ -85,8 +97,4 @@ nav {
 main {
   margin: 0 auto;
   max-width: 600px;
-}
-
-.posts .post h2 {
-  text-align: center;
 }

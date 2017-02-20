@@ -1,0 +1,17 @@
+.post {
+  margin-bottom: $page-spacing * 2;
+
+  header {
+    text-align: center;
+  }
+
+  .content {
+    border-bottom: $basic-border;
+  }
+
+  footer {
+    font-size: 11px;
+    padding-top: $page-spacing / 4;
+    text-align: center;
+  }
+}
