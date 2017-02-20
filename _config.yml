@@ -8,6 +8,9 @@ navigation:
  - text: Code of Conduct
    category: conduct
    url: /conduct
+ - text: Contact us
+   category: contact
+   url: /contact
  - text: MUCK Help
    category: muck-help
    url: /muck-help

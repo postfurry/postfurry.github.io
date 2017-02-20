@@ -1,0 +1,45 @@
+---
+layout: default
+title: MUCK Character Request
+categories: MUCK
+---
+<p>Postfurry MUCK is intended to be a comfortable gathering spot, something like an unofficial room party at a fandom convention.  Many of our new accounts are by invitation, but we like to meet new folks too, as long as we feel like they're committed to keeping things fun for everyone. The best way to get to know what we're all about is by taking a peek in the <a href="https://discord.gg/WFB8gZe" target="_blank">Postfurry Embassy Discord server</a>.</p>
+
+<p>If you've already been around the Embassy, or someone on the MUCK has pointed you to this page,  great!  Just fill out the form, let us know who recommended this place, and you'll be on your way to a character.</p>
+
+<p>If you found this place some other way, well, impressive!  Feel free to submit an application too, though there may be a little more conversation back and forth, likely via the Embassy (or email if that's not available) before we create your account. One thing that will help a lot is to provide links to other places we can find you online; Twitter, Tumblr, art sites, etc. Just anything to give us a sense of the being behind the name.</p>
+
+<p>Regardless, you can expect a response to your submission within 2 days; if you don't, drop us a line using the <a href="/contact">contact us form</a>.</p>
+
+<form action="https://formspree.io/pfmuck@gmail.com" method="POST">
+  <div class="form-group">
+    <label for="yourName">Your name</label>
+    <input name="Player name"
+      type="text" class="form-control" id="yourName" required
+      placeholder="Whatever you're known by; legal name not required"
+    >
+  </div>
+  <div class="form-group">
+    <label for="emailAddress">Email address</label>
+    <input name="Email address"
+      type="email" class="form-control" id="emailAddress" required
+      placeholder="Not shared with anyone, just how we'll contact you with your connection information."
+    >
+  </div>
+  <div class="form-group">
+    <label for="charName">Character name</label>
+    <input name="Character name"
+      type="text" class="form-control" id="charName" required
+      maxlength="16" pattern="[A-Za-z0-9_\.\-]{1,16}"
+      placeholder="Up to 16 characters, no spaces or special characters (Periods, dashes, and underscores okay)."
+    >
+  </div>
+  <div class="form-group">
+    <label for="application">Referral/application info</label>
+    <textarea name="Application info"
+      id="application" class="form-control" rows="5" required
+      placeholder="If you were referred by an existing MUCK or Discord user, let us know who, here. Otherwise, some info about yourself would be helpful, including where else you can be found online. (If you're an existing user requesting an alt, just mention your existing account name here)"></textarea
+    >
+  </div>
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>
