@@ -4,9 +4,7 @@
     <li {% if page.categories contains link.category %} class="active" {% endif %}>
       <a href="{{link.url}}"
         {% if link.category == 'external' %} target="_blank" {% endif %}
-      >
-        {{link.text}}
-      </a>
+      >{{link.text}}</a>
     </li>
     {% endfor %}
   </ul>
