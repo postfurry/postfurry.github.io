@@ -31,3 +31,37 @@ subnav-conduct:
   - text: Enforcement Examples
     category: conduct-examples
     url: /conduct/examples
+
+subnav-muck:
+  - text: Info
+    category: muck-main
+    url: /muck
+  - text: Request a Character
+    category: muck-request
+    url: /muck/request
+  - text: How to MUCK
+    category: muck-help
+    url: /muck/help
+
+subnav-muckhelp:
+  - text: Contents
+    category: muck-help-index
+    url: /muck/help
+  - text: Connecting
+    category: muck-help-connecting
+    url: /muck/help/connecting
+  - text: Basics
+    category: muck-help-basics
+    url: /muck/help/basics
+  - text: Meeting Others
+    category: muck-help-meeting-others
+    url: /muck/help/meeting-others
+  - text: Communication
+    category: muck-help-communication
+    url: /muck/help/communication
+  - text: Looking Good
+    category: muck-help-looking-good
+    url: /muck/help/looking-good
+  - text: Odds and Ends
+    category: muck-help-odds-and-ends
+    url: /muck/help/odds-and-ends

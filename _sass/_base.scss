@@ -34,11 +34,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.big-link {
-  @include heading;
-  font-size: 20px;
-}
-
 header .brand {
   @include heading;
   color: $brand-text-color;
@@ -116,11 +111,11 @@ nav {
   font-size: 12px;
 
   &:first-child {
-    padding-top: 0;
+    padding-bottom: 0;
   }
 
   &:last-child {
-    padding-bottom: 0;
+    padding-top: 0;
   }
 
   .topic {
@@ -128,7 +123,7 @@ nav {
   }
 }
 
-main {
+.content {
   margin: $page-spacing auto;
   max-width: 800px;
 }

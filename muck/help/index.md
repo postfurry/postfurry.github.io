@@ -1,6 +1,7 @@
 ---
+layout: muckhelp
 title: MUCK Help
-categories: muck, muck-help
+categories: muck, muck-help, muck-help-index
 redirect_from:
   - /muck-help
 ---
@@ -9,10 +10,10 @@ Using an entirely text-based system like a MUCK can be daunting at first, but ul
 
 ## Topics
 
-* **[Getting Connected](getting-connected)**
-	* Choosing a MUCK client and connecting to our server
-* **[Basic Interaction](basics)**
-	* Commands: Basic syntax, `say`, `pose`
+* **[Connecting](connecting)**
+	* Choosing a MUCK client and getting connected to the server
+* **[Basics](basics)**
+	* Commands: Command syntax, `say`, `pose`
 * **[Meeting Others](meeting-others)**
 	* Commands: `look`, `ws`, `wa`, `fa`
 * **[Communication](communication)**
@@ -22,4 +23,4 @@ Using an entirely text-based system like a MUCK can be daunting at first, but ul
 * **[Odds and Ends](odds-and-ends)**
     * Commands: `wf`, `laston`, `handup`, `staff`
 
-[Start: Getting Connected &raquo;](getting-connected)
+[Start: Connecting &raquo;](connecting)

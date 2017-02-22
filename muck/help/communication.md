@@ -1,6 +1,7 @@
 ---
-title: Communication Skills
-categories: muck, muck-help
+layout: muckhelp
+title: Muck Help &mdash; Communication
+categories: muck, muck-help, muck-help-communication
 ---
 # [MUCK Help](/muck/help) &raquo; Communication
 

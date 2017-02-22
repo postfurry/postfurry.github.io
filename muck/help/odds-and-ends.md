@@ -1,6 +1,7 @@
 ---
-title: Odds and Ends
-categories: muck, muck-help
+layout: muckhelp
+title: Muck Help &mdash; Odds and Ends
+categories: muck, muck-help, muck-help-odds-and-ends
 ---
 # [MUCK Help](/muck/help) &raquo; Odds and Ends
 

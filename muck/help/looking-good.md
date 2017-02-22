@@ -1,6 +1,7 @@
 ---
-title: Looking Good
-categories: muck, muck-help
+layout: muckhelp
+title: Muck Help &mdash; Looking Good
+categories: muck, muck-help, muck-help-looking-good
 ---
 # [MUCK Help](/muck/help) &raquo; Looking Good
 

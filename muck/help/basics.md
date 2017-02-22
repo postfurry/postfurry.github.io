@@ -1,14 +1,15 @@
 ---
-title: Basic Interaction
-categories: muck, muck-help
+layout: muckhelp
+title: Muck Help &mdash; Basics
+categories: muck, muck-help, muck-help-basics
 ---
-# [MUCK Help](/muck/help) &raquo; Basic Interaction
+# [MUCK Help](/muck/help) &raquo; Basics
 
 Hopefully by now you've successfully connected to the MUCK, so it's time to learn a few MUCK commands.  In this doc, when we talk about commands, they will be on their own line, in monospaced font,
 
     like this.
 
-Also, most commands will need something filled in by you, represntiong what you want to say, do, etc.  For these, the part to replace will be marked by [...].  You don't need to type the [ or ] characters, just replace them with what you want.
+Also, most commands will need something filled in by you, representing what you want to say, do, etc.  For these, the part to replace will be marked by [...].  You don't need to type the [ or ] characters, just replace them with what you want.
 
 One more important note before we get into specific commands.  Most commands have help text available, almost always by typing the command followed by the text `#help`.  For instance,
 
@@ -51,6 +52,6 @@ Since the `say` and `pose` commands are so commonly-used, they each have shorter
     "Hello!
     :waves!
 
-Note that for the `"` command, you don't need a closing quotemark, that'll get added for you.
+Note that for the `"` command, you don't need a closing quotation mark, that'll get added for you.
 
 [Next: Meeting Others &raquo;](meeting-others)

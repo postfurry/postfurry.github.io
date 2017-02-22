@@ -1,6 +1,7 @@
 ---
-title: Meeting Other Players
-categories: muck, muck-help
+layout: muckhelp
+title: Muck Help &mdash; Meeting Others
+categories: muck, muck-help, muck-help-meeting-others
 ---
 # [MUCK Help](/muck/help) &raquo; Meeting Others
 
