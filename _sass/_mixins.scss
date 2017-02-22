@@ -1,0 +1,25 @@
+@mixin heading {
+  display: block;
+  font-family: 'Baumans', sans-serif;
+  font-weight: normal;
+  letter-spacing: .05em;
+  line-height: 1.4em;
+  margin: 0 auto .5em;
+}
+
+@mixin horizontal-list-item {
+  display: inline;
+  padding: 0 .8em;
+  white-space: nowrap;
+}
+
+@mixin horizontal-list {
+  display: inline;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    @include horizontal-list-item;
+  }
+}

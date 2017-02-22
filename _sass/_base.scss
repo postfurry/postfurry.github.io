@@ -4,17 +4,9 @@ body {
   font-family: 'Cabin', sans-serif;
   font-size: 14px;
   line-height: 1.8em;
-  margin: 0;
-  padding: 50px;
-}
+  margin: $page-spacing;
+  padding: px;
 
-@mixin heading {
-  display: block;
-  font-family: 'Baumans', sans-serif;
-  font-weight: normal;
-  letter-spacing: .05em;
-  line-height: 1.4em;
-  margin: 0 auto .5em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -76,16 +68,11 @@ nav {
   width: auto;
 
   ul {
-    display: inline;
-    list-style: none;
-    margin: 0;
-    padding: 0;
+    @include horizontal-list;
   }
 
-  li, .item {
-    display: inline;
-    padding: 0 .8em;
-    white-space: nowrap;
+  .item {
+    @include horizontal-list-item;
   }
 
   a {
@@ -123,7 +110,7 @@ nav {
   }
 }
 
-.content {
+main>.content {
   margin: $page-spacing auto;
   max-width: 800px;
 }
@@ -141,4 +128,18 @@ blockquote {
   line-height: 1.2em;
   margin-bottom: 1em 0;
   padding: .5em;
+}
+
+body>footer {
+  color: $footer-text-color;
+  font-size: 10px;
+  text-align: center;
+
+  ul {
+    @include horizontal-list;
+  }
+
+  .decoration {
+    font-size: 250%;
+  }
 }

@@ -39,7 +39,7 @@ subnav-muck:
   - text: Request a Character
     category: muck-request
     url: /muck/request
-  - text: How to MUCK
+  - text: Muck Help
     category: muck-help
     url: /muck/help
 
