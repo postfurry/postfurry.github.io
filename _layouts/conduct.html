@@ -1,6 +1,9 @@
-<nav class="main-nav">
+---
+layout: default
+---
+<nav class="sub-nav">
   <ul>
-    {% for link in site.navigation %}
+    {% for link in site.subnav-conduct %}
     <li {% if page.categories contains link.category %} class="active" {% endif %}>
       <a href="{{link.url}}"
         {% if link.category == 'external' %} target="_blank" {% endif %}
@@ -9,3 +12,5 @@
     {% endfor %}
   </ul>
 </nav>
+
+{{ content }}

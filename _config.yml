@@ -2,21 +2,32 @@ gems:
   - jekyll-redirect-from
 
 navigation:
- - text: Home
-   category: home
-   url: /
- - text: About us
-   category: about
-   url: /about
- - text: Code of Conduct
-   category: conduct
-   url: /conduct
- - text: PF MUCK
-   category: muck
-   url: /muck
- - text: Contact us
-   category: contact
-   url: /contact
- - text: Twitter
-   category: external
-   url: https://twitter.com/PostfurryWorlds
+  - text: Home
+    category: home
+    url: /
+  - text: About us
+    category: about
+    url: /about
+  - text: Code of Conduct
+    category: conduct
+    url: /conduct
+  - text: PF MUCK
+    category: muck
+    url: /muck
+  - text: Contact us
+    category: contact
+    url: /contact
+  - text: Twitter
+    category: external
+    url: https://twitter.com/PostfurryWorlds
+
+subnav-conduct:
+  - text: Main
+    category: conduct-main
+    url: /conduct
+  - text: When Something Happens
+    category: conduct-enforcement
+    url: /conduct/enforcement
+  - text: Enforcement Examples
+    category: conduct-examples
+    url: /conduct/examples

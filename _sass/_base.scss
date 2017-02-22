@@ -72,10 +72,9 @@ a {
 
 nav {
   border-bottom: $basic-border;
-  border-top: $basic-border;
   font-family: 'Fira Mono';
   font-size: 15px;
-  margin: 0 0 $page-spacing;
+  margin: 0;
   padding: $page-spacing 0;
   text-align: center;
   text-transform: uppercase;
@@ -111,9 +110,15 @@ nav {
   }
 }
 
+.sub-nav {
+  border: 0;
+  padding-top: 0;
+  font-size: 12px;
+}
+
 main {
-  margin: 0 auto;
-  max-width: 600px;
+  margin: $page-spacing auto;
+  max-width: 800px;
 }
 
 pre, code {
