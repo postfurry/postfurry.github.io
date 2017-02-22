@@ -59,3 +59,11 @@ Depending on the violation, the admins may decide that violations of this code o
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the Postfurry Worlds admins on any Postfurry Worlds chat server, or via Twitter at [https://twitter.com/PostfurryWorlds/](@PostfurryWorlds). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of enforcement policies are available [on the Postfurry Worlds website](https://postfurry.github.io/conduct/enforcement).
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+
+## Attribution
+
+This Code of Conduct is adapted from the
+[Contributor Covenant](http://contributor-covenant.org),
+version 1.4, available at
+[http://contributor-covenant.org/version/1/4](http://contributor-covenant.org/version/1/4),
+and the WeAllJS [Code of Conduct](https://wealljs.org/code-of-conduct).
