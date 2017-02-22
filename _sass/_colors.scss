@@ -1,3 +1,5 @@
+$fade-alpha: .6;
+
 $background-color: rgb(3, 0, 31);
 $content-text-color: rgb(196, 196, 196);
 $brand-text-color: rgb(226, 97, 255);
@@ -5,8 +7,7 @@ $heading-text-color: rgb(112, 131, 255);
 $border-color: #5c5c5c;
 $code-bg-color: rgba(255, 255, 255, .2);
 $code-text-color: #fff;
-$footer-text-color: rgba($content-text-color, .5);
 
 $link-color: #80f4ff;
 $link-hover-color: #3defff;
-$topic-color: rgba($link-color, .6);
+$topic-color: rgba($link-color, $fade-alpha);

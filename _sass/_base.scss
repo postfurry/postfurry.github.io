@@ -71,10 +71,6 @@ nav {
     @include horizontal-list;
   }
 
-  .item {
-    @include horizontal-list-item;
-  }
-
   a {
     color: $content-text-color;
     text-decoration: none;
@@ -131,8 +127,8 @@ blockquote {
 }
 
 body>footer {
-  color: $footer-text-color;
   font-size: 10px;
+  opacity: $fade-alpha;
   text-align: center;
 
   ul {

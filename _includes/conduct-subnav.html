@@ -1,6 +1,6 @@
 <nav class="sub-nav">
-  <div class="topic item">Code of Conduct:</div>
   <ul>
+    <li><a class="topic" href="/conduct">Code of Conduct:</a></li>
     {% for link in site.subnav-conduct %}
     <li {% if page.categories contains link.category %} class="active" {% endif %}>
       <a href="{{link.url}}"

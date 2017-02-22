@@ -1,6 +1,6 @@
 <nav class="sub-nav">
-  <div class="topic item">Muck Help:</div>
   <ul>
+    <li><a class="topic" href="/muck/help">Muck Help:</topic></li>
     {% for link in site.subnav-muckhelp %}
     <li {% if page.categories contains link.category %} class="active" {% endif %}>
       <a href="{{link.url}}"
