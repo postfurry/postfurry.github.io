@@ -2,7 +2,7 @@ gems:
   - jekyll-redirect-from
 
 navigation:
-  - text: Home
+  - text: News
     category: home
     url: /
   - text: About us
