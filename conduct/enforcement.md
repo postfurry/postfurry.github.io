@@ -19,7 +19,7 @@ When reporting, please include any relevant details, links, screenshots, context
 
 Once the admins get involved, they will follow a documented series of steps and do their best to preserve the well-being of Postfurry World members.
 
-## <a name="#contacting-admins">Contacting Admins
+## <a name="#contacting-admins"/>Contacting Admins
 
 You may contact Postfurry Worlds admins through any of the following methods:
 
@@ -32,7 +32,7 @@ Admin identities are visible in the following ways:
   * Discord: Admins have the `Administrator` role, and are highlighted in blue in the user list.
   * MUCK: Admins are listed under the `staff` and `wizards` commands.
 
-## <a name="#further-enforcement">Further Enforcement
+## <a name="#further-enforcement"/>Further Enforcement
 
 If you've already followed the [initial enforcement steps](#when-something-happens), these are the steps admins will take for further enforcement, as needed:
 
