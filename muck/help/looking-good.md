@@ -29,6 +29,6 @@ and you'll be all set up.  For instance, to show your interest in cyborgs, psion
 
 If you're not sure what any flags mean, be sure to ask your fellow players.  They'll likely be happy to explain, possibly at length.
 
-Next, there is `pinfo`, short for "Player Info" which lets you give long-form information that doesn't necessarily fit into a description.  You can see another cuaracter's info by typing `pinfo [name]`, and you can see how to set your own by typing `pinfo #help`.
+Next, there is `pinfo`, short for "Player Info" which lets you give long-form information that doesn't necessarily fit into a description.  You can see another character's info by typing `pinfo [name]`, and you can see how to set your own by typing `pinfo #help`.
 
 [Next: Odds and Ends &raquo;](odds-and-ends)

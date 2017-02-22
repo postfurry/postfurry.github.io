@@ -36,11 +36,11 @@ Sometimes, though, you need to get admins involved. Admins will do their best to
 ## The Nope Case
 
 <blockquote>
-  <p>PepeTheFrog🐸: "Hi, I am a literal actual nazi and I think white supremacists are quite fashionable."</p>
+  <p>KekFrog: "Hi, I am a literal actual nazi and I think white supremacists are quite fashionable."</p>
   <p>Patt: "NOOOOPE. OH NOPE NOPE."</p>
   <p>Alex: "JFC NO. NOPE."</p>
-  <p>MxAdmin1: "👀 Nope. NOPE NOPE NOPE. 🔥"</p>
-  <p>PepeTheFrog🐸 has been banned.</p>
+  <p>MxAdmin1: **peeks in** "Nope. NOPE NOPE NOPE. &gt;:|"</p>
+  <p>KekFrog has been banned.</p>
 </blockquote>
 
 {% include coc-attribution.md %}

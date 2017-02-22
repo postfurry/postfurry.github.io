@@ -3,7 +3,7 @@ body {
   color: $content-text-color;
   font-family: 'Cabin', sans-serif;
   font-size: 14px;
-  line-height: 1.8em;
+  line-height: $default-line-height;
   margin: $page-spacing;
   padding: px;
 
@@ -137,5 +137,19 @@ body>footer {
 
   .decoration {
     font-size: 250%;
+  }
+}
+
+p {
+  margin-bottom: $paragraph-spacing;
+}
+
+li dl {
+  dt {
+    font-weight: normal;
+    line-height: $default-line-height;
+  }
+  dd {
+    margin-top: $paragraph-spacing;
   }
 }

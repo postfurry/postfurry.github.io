@@ -16,10 +16,10 @@ To that end, we've recently tidied up the topology slightly, and added a few new
 
 ### **New Command Summary**
 
-* **dir / map**
+* `dir` / `map`
  : Get a guide to the area you're in
 
-* **gdir / gmap**
+* `gdir` / `gmap`
  : Get a general list of MUCK areas.
 
 So, go out there and explore! You might be surprised what you find!

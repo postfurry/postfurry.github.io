@@ -23,9 +23,9 @@ Each client has a different method for setting up a connection, but they'll all 
 
 (If your MUCK client supports SSL/TLS, you can set that option on and connect to port 5555 instead, to encrypt your connection)
 
-You will know you are correctly connected when you see a wecome screen, which is a big triangle design and a link to this website. This is where you will provide your login info.
+You will know you are correctly connected when you see a welcome screen, which is a big triangle design and a link to this website. This is where you will provide your login info.
 
-Many clients can be set up to automatically proide your login info. Check out the website for your MUCK client to see if it has instructions for how to set this up.
+Many clients can be set up to automatically provide your login info. Check out the website for your MUCK client to see if it has instructions for how to set this up.
 
 If your client doesn't automatically set up your connection information, all you have to do is type the following at the login screen:
 
