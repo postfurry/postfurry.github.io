@@ -1,12 +1,10 @@
 ---
 layout: conduct
-title: Enforcement Process
+title: When Something Happens
 categories: conduct, conduct-enforcement
 ---
 
-# Enforcement Process
-
-## When Something Happens
+# When Something Happens
 
 If you see a Code of Conduct violation, follow these steps:
 

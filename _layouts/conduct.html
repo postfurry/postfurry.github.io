@@ -1,16 +1,8 @@
 ---
 layout: default
 ---
-<nav class="sub-nav">
-  <ul>
-    {% for link in site.subnav-conduct %}
-    <li {% if page.categories contains link.category %} class="active" {% endif %}>
-      <a href="{{link.url}}"
-        {% if link.category == 'external' %} target="_blank" {% endif %}
-      >{{link.text}}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</nav>
+{% include conduct-subnav.html %}
 
 {{ content }}
+
+{% include conduct-subnav.html %}
