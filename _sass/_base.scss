@@ -5,8 +5,6 @@ body {
   font-size: 14px;
   line-height: $default-line-height;
   margin: $page-spacing;
-  padding: px;
-
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -149,6 +147,7 @@ li dl {
     font-weight: normal;
     line-height: $default-line-height;
   }
+
   dd {
     margin-top: $paragraph-spacing;
   }
