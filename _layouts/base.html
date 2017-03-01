@@ -15,7 +15,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
       integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
       crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Baumans|Cabin|Fira+Mono" rel="stylesheet">
+    {% assign fonts = site.google_fonts | join: '|' %}
+    <link href="https://fonts.googleapis.com/css?family={{ fonts | url_encode }}" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
   </head>
   <body>

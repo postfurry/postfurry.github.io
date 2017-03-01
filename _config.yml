@@ -1,6 +1,11 @@
 gems:
   - jekyll-redirect-from
 
+google_fonts:
+  - Baumans
+  - Cabin
+  - Fira Mono
+
 navigation:
   - text: News
     category: home
