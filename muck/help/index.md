@@ -21,6 +21,6 @@ Using an entirely text-based system like a MUCK can be daunting at first, but ul
 * **[Looking Good](looking-good)**
     * Commands: `editplayer`, `wi`, `pinfo`
 * **[Odds and Ends](odds-and-ends)**
-    * Commands: `wf`, `laston`, `handup`, `staff`
+    * Commands: `wf`, `laston`, `handup`, `staff`, building/programming resources
 
 [Start: Connecting &raquo;](connecting)
