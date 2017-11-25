@@ -38,3 +38,7 @@ For instance, if your name is Rory and your password is "secret" (Let's hope it'
 Hit Enter, and you're in!
 
 [Next: Basics &raquo;](basics)
+
+## Client troubleshooting
+
+Some MUCK clients, on some network configurations, have a tendency to randomly disconnect. You should be able to fix this by turning on "keepalives" in your client settings. Again, each client has a different way of doing this, if you can't work out how to do it on yours, ask on the MUCK or the #muck channel on the Discord server.
