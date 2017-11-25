@@ -17,9 +17,19 @@ One more important note before we get into specific commands.  Most commands hav
 
 will give you help on the 'wa' command.  But we'll cover more about that later.
 
+## Orientation
+
+When you connect, you'll be in "Outside", where new players start from. There's not much to do here, so the first thing to do is move to another room. Moving is a command like any other, so the first thing you'll want to do move to a more central location by typing:
+
+    drift
+    
+Type that and hit enter, and you'll see a new block of text appear. There's the room name (Possibility Space, Sector #877), the room description, and a list of room contents. The room contents includes other players, you can tell these because they will have `[asleep]` or `[awake]` after the names. "Awake" means the player is connected to the MUCK right now; "asleep" means they're disconnected. On a MUCK, disconnected players stay in the room they were last in, unless someone sends them home.
+
+When you're wandering around the MUCK, you can always use the `drift` command to get back to this Sector #877 location, which can be very helpful when exploring, since all other public locations on the MUCK are ultimately connected back to that one.
+
 ## Talking and Acting
 
-One of the main things you'll want to do on a MUKC are interact with other characters there.  The basic command for this is the `say` command, used like this:
+One of the main things you'll want to do on a MUCK are interact with other characters there.  The basic command for this is the `say` command, used like this:
 
     say [message]
 
