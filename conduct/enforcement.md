@@ -23,13 +23,15 @@ Once the admins get involved, they will follow a documented series of steps and 
 
 You may contact Postfurry Worlds admins through any of the following methods:
 
-  * Directly message any admin in private, using the method appropriate to the server (DM on Discord, `page` on the MUCK, etc)
   * Use the `@Administrator` role shortcut in the `#meta` channel on the Discord server.
+  * Direct message an Administrator in the Telegram Group.
+  * Directly message any admin in private, using the method appropriate to the server (DM on Discord, `page` on the MUCK, etc)
   * Direct Message [@PostfurryWorlds](https://twitter.com/postfurryworlds) on Twitter with the details and any relevant links.
 
 Admin identities are visible in the following ways:
 
   * Discord: Admins have the `Administrator` role, and are highlighted in blue in the user list.
+  * Telegram: Admins have stars by thier name in the user list.
   * MUCK: Admins are listed under the `staff` and `wizards` commands.
 
 ## <a name="#further-enforcement"/>Further Enforcement
