@@ -7,7 +7,7 @@ Postfurry is a loose coalition of individuals and microcommunities brought toget
 
 ## The Postfurry Embassy Discord Server
 The Embassy on Discord was the first embassy set up. It is now the quickest way to get to know various postfurries in an open and welcoming environment. It provides general-audience and less-general-audience chat channels, as well as a light RP channel.
-[Come join us!](https://discord.gg/WFB8gZe)
+[Come join us!](https://discord.gg/Sc8cQsN)
 
 ## The Postfurry Embassy Telegram Group
 The Embassy on Telegram is another place to meet various postfurries in an open and welcoming environment. It provides a general-audience channel and a place to use Telegram stickers.
