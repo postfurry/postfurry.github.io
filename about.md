@@ -11,7 +11,7 @@ The Embassy on Discord was the first embassy set up. It is now the quickest way 
 
 ## The Postfurry Embassy Telegram Group
 The Embassy on Telegram is another place to meet various postfurries in an open and welcoming environment. It provides a general-audience channel and a place to use Telegram stickers.
-[Come join us!](https://t.me/postfurryembassy)
+[Come join us!](https://t.me/joinchat/BFUCKVk1gxvohOI6hzmSHQ)
 
 ## Postfurry MUCK 
 The MUCK is more roleplay-focussed and heavily-themed than the Embassy. As such it has a (slightly) more stringent account creation policy; we prefer that MUCK users be Embassy regulars, or have a referral from an existing user. You can request a character [here](/request). This site also provides [help info](/muck/help) to aid new users in getting comfortable with the MUCK.
