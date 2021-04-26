@@ -33,7 +33,7 @@ Examples of unacceptable public behavior by participants include:
 
 We also recognize sorts of behavior that may not always rise to the level of violation or admin action, but still should be avoided in most situations, primarily to help foster an environment of mutually-enjoyable discussion. Examples of such discouraged behavior by participants include:
 
- * Self-deprecating phrasing or topics. These tend to perpetuate negative thought patterns, stifle growth, and get in the way of constructive discussion . Remember that "empathy and kindness towards community members" applies to yourself as well.
+ * Self-deprecating phrasing or topics. These tend to perpetuate negative thought patterns, stifle growth, and get in the way of constructive discussion. Remember that "empathy and kindness towards community members" applies to yourself as well.
  * Suicidal ideation and other health crisis events. Posts of this nature have the potential to be extremely triggering, and such topics are not things that anyone in the server is adequately trained to deal with.
  * Extended interpersonal discussions, particularly those of an emotional nature. As public places, our servers are not the best place to have highly personal conversations. Please redirect such conversations to direct messages.
  * Unsolicited explanations under the assumption that someone doesn't already know it. Ask before you teach! Don't assume what people's knowledge gaps are.
